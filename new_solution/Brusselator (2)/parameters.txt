@@ -1,0 +1,6 @@
+In order to coincide with the original exercise, 
+in this folder one finds the results for the following choice of parameters:
+A=2
+B=6
+Starting point: [1.0,1.0]
+Because the easy newton method did not converge it was omitted.

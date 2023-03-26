@@ -1,0 +1,11 @@
+Man beachte zuallererst, dass aufgrund Notationsproblemen Bsp. 4.29 Beispiel 4.31 aus der Aufgabenstellung entspricht.
+In den drei Ordnern ist die komparative Analyse der drei Verfahren 
+(Quasi-Newton, Normales Newton, Einfaches Newton) zu finden.
+Dabei wurde sowohl die Beziehung der der drei Verfahren bzgl. der Anzahl der Iterationen 
+bis zu dem Erreichen der Lösung untersucht als auch die verbrauchte Zeit.
+Der Startpunkt wurde im Falle von Bsp. 4.29 und Aufgabe 4.9 als 1^10 gewählt, bei Beispiel 4.30 als (1,10).
+Der cutoff wurde aus Übersichtszwecken möglichst gering gewählt,
+allerdings wurden die Programme auch gegen höhere cutoffs getestet, mit dem gleichen Resultat.
+Es wurde relativ neue Hardware benutzt (Ryzen 5600, 16GB RAM).
+
+Um noch Konvergenz zu erzielen kann der Parameter aus Bsp. 4.30 nicht höher als 2.7 (für das quasi-newton Verfahren) und 4.5 (für das normale Newton-Verfahren) gewählt werden.

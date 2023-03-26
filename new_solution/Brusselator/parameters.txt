@@ -1,0 +1,4 @@
+In order to ensure convergence on all three algorithms, the following parameters were chosen:
+A=0.2
+B=0.6
+Starting point= [1.0,1.0]

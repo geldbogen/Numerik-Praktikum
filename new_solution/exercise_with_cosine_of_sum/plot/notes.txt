@@ -1,0 +1,5 @@
+The two figures in this folder show the relationship of the parameter lambda
+to the amount of iterations needed, to approximate the solution up to an error of 10^-4.
+Figure 1 has a normal scale, Figure 2 a logarithmical one.
+The starting point was always the zero vector in R^10.
+Because not all algorithms terminated there was a cutoff at 200 iterations introduced.

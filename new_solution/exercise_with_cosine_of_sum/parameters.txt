@@ -1,0 +1,2 @@
+In both cases the starting point was chosen as the zero-vector in R^10. 
+One can find the choice of the parameter lambda in the folder name.

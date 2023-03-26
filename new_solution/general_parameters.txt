@@ -1,0 +1,3 @@
+For all three exercises and all three algorithms an accuracy of 0.001 (in the usual R^n norm)
+was required from the approximation in order to terminate.
+In addition to that, the threshold for numerical differentiation was chosen to be 0.00001. 

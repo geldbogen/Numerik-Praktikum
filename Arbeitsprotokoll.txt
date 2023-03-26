@@ -1,0 +1,10 @@
+Arbeitsprotokoll:
+ 
+Folgende Schritte wurden durchgeführt:
+1.: Implementierung der drei verschiedenen Verfahren (10 Stunden)
+2.: Erstellung eines Tkinter Interfaces (10 Stunden)
+3.: Komparative Analyse der drei Verfahren mithilfe von matplotlib (10 Stunden)
+
+Es wurde in der Programmiersprache Python programmiert. Ferner wurden die Module NumPy (zur numerischen Berechnung),
+Pandas (zum erstellen der csv dateien) und matplotlib (für die Erstellung der Grafiken) benutzt. Letztlich wurde das time modul zur Erfassung der Zeit benutzt.
+
